@@ -1,0 +1,15 @@
+{
+  "name": "mizuame-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "test theme",
+  "keywords": [
+    "test",
+    "practice"
+  ],
+  "repository": "https://github.com/TomotakaSeki/test_180525",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
